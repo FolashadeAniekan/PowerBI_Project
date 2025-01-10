@@ -1,6 +1,6 @@
-# Social Media Engagement Analysis Dashboard
+# Social Media Usage Analysis Dashboard
 
-This repository contains a dashboard visualizing social media engagement metrics across multiple platforms, including Snapchat, TikTok, Instagram, Facebook, LinkedIn, Pinterest, and Twitter.
+This repository contains a dashboard visualizing social media usage metrics across multiple platforms, including Snapchat, TikTok, Instagram, Facebook, LinkedIn, Pinterest, and Twitter.
 
 ## Features
 - **Daily Minutes Spent**: Comparison of highest and lowest daily time spent per app.
